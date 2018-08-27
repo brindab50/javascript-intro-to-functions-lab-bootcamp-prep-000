@@ -1,3 +1,4 @@
+
 function shout(string) {
   return string.toUpperCase()
 }
@@ -15,7 +16,4 @@ if (string === "I love you, Grandma.") {
   return "I love you, too."
 }
  
-}
-function logShout(string) {
-  console.log(string.toUpperCase())
 }
