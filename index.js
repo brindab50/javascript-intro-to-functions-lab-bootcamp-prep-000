@@ -16,3 +16,6 @@ if (string === "I love you, Grandma.") {
 }
  
 }
+function logShout(string) {
+  console.log(string.toUpperCase())
+}
